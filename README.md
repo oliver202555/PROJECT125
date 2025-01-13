@@ -46,7 +46,3 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Iptv4  | `1103581436`           | 4099381829                            |  http://zkbvzkj.megahdtv.xyz:80        |
 
 #
-
-<img src="https://media1.tenor.com/m/DKatHyCJQ0IAAAAd/motorhead-discography.gif" alt="Computer man" style="width:150px;height:200px;">
-
-
